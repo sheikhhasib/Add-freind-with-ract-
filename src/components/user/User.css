@@ -1,0 +1,27 @@
+.user-content{
+    border: 1px solid lightgray;
+    padding: 30px;
+    display: flex;
+    margin: 10px;
+    border-radius:10px;
+    box-shadow: 5px 5px 5px gray;
+
+}
+.user-details{
+    width:90%;
+}
+.addFriendButton{
+    margin-top: 10px;
+    padding : 10px 20px;
+    background-color: rgb(216, 153, 37);
+    color: black;
+    border-radius: 5px;
+    font-size:14px;
+    border: none;
+    
+}
+.addFriendButton:hover{
+    background-color: rgb(136, 99, 32);
+    color: white;
+
+}

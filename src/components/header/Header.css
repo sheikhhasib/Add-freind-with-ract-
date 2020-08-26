@@ -1,0 +1,43 @@
+.main-header{
+    background-color:black;
+    margin-bottom: 20px;
+    width:100%;
+    position: fixed;
+    overflow: hidden;
+}
+.header{
+    width: 90%;
+    margin:auto;
+    display: flex;
+    
+}
+nav{padding:10px;}
+nav a{
+    text-decoration: none;
+    color: white;
+    padding-left: 20px;
+    font-size:20px;
+}
+nav a:hover{
+    color: aqua;
+}
+.nav-bar{
+    width:90%;
+}
+.SignIn{
+    width:10%;
+    margin-top: 10px;
+}
+.btn{
+    height: 80%;
+    background-color:#c409ba;
+    padding:5px 20px 10px 20px;
+    color: white;
+    border-radius: 5px;
+    font-size:16px;
+    border: none;
+}
+.btn:hover{
+    background-color:#b1079d;
+
+}
